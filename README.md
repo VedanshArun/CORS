@@ -133,10 +133,6 @@ To get a local copy up and running follow these simple example steps.
     ```
 
 
-## 🚀 Demo
-
-App is under development. For now it is like this. With your help we will add more features and functionalities.
-
 <!-- LICENSE -->
 
 ## License
