@@ -6,7 +6,7 @@ const Nav = () => {
         <p className='font-bold text-xl'><span className='text-sky-500'>CO</span>RS</p>
         <button
             type="button"
-            onClick={() => window.open('#')}
+            onClick={() => window.open('https://github.com/VedanshArun/CORS')}
             className = 'bg-black px-4 py-3 rounded-md text-white font-medium hover:bg-[#28292B]'
         >
             Github repo

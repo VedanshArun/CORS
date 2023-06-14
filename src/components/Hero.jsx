@@ -27,14 +27,14 @@ const Hero = () => {
                             <div className='flex gap-4'>
                                 <button
                                     type="button"
-                                    onClick={() => window.open('#')}
+                                    onClick={() => window.open('https://github.com/VedanshArun/CORS')}
                                     className = 'bg-black px-4 py-3 rounded-md text-white  hover:bg-[#28292B]'
                                 >
                                     Github repo
                                 </button>
                                 <button
                                     type="button"
-                                    onClick={() => window.open('#')}
+                                    onClick={() => window.open('https://www.bannerbear.com/blog/what-is-a-cors-error-and-how-to-fix-it-3-ways/#:~:text=To%20get%20rid%20of%20a,Methods%20headers%20to%20the%20responses.')}
                                     className = 'bg-white px-4 py-3 rounded-md text-black shadow-md'
                                 >
                                     Solution
